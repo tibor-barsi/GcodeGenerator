@@ -1,0 +1,18 @@
+{
+ "T_nozzle": 230,
+ "T_nozzle_standby": 180,
+ "cooling": 0.3,
+ "d_nozzle": 0.4,
+ "d_filament": 1.75,
+ "layer_height": 0.15,
+ "trace_width": 0.42,
+ "trace_spacing": 0.42,
+ "extrude_factor": 1.15,
+ "move_feedrate": 500.0,
+ "print_feedrate": 20.0,
+ "nozzle_lift": 0.2,
+ "retract_len": 3,
+ "retract_feedrate": 15.0,
+ "wipe_len": 1.5,
+ "wipe_feedrate": 15.0
+}
